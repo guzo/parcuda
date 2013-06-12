@@ -1,0 +1,12 @@
+parcuda
+=======
+
+A simple WIP prealpha particle system sketch.
+
+requires:
+ * cuda
+ * opengl
+ * glut
+ * glew
+ * glm
+ * gcc >= 4.7 (std::chrono)
